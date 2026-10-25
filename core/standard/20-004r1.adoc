@@ -1,37 +1,16 @@
-= OGC API - Records - Part 1: Core
+= OGC API - Records - Part 1
 :doctype: standard
-:encoding: utf-8
-:lang: en
-:status: approved
-:committee: technical
-:draft: 3.0
-:external-id: http://www.opengis.net/doc/IS/ogcapi-records-1/1.0
-:docnumber: 20-004r1
-:received-date: 2025-01-08
-:issued-date: 2025-04-07
-:published-date: 2025-05-02
-:fullname: Panagiotis (Peter) A. Vretanos
-:fullname_2: Tom Kralidis
-:fullname_3: Angelos Tzotsos
-:fullname_4: Charles Heazel
-:docsubtype: Interface
-:keywords: ogcdoc, OGC document, OGC API, catalog, record, records, resource, metadata, discovery, CSW, API, GeoJSON, HTML, schema.org, JSON-LD
-:submitting-organizations: CubeWerx Inc.; Meteorological Service of Canada; Open Source Geospatial Foundation; Geonovum
-:mn-document-class: ogc
-:mn-output-extensions: xml,html,pdf
-:local-cache-only:
-:data-uri-image:
-:htmltoclevels: 3
-:toclevels: 3
-:pdf-uri: ./20-004r1.pdf
+:docsubtype: implementation
 :edition: 1.0
-
-
-////
-Make sure to complete each included document
-////
-
-// Note that security considerations are in clause_0_front_material.adoc
+:language: en
+:status: draft
+:committee: technical
+:docnumber: 20-004r1
+:received-date: 2026-10-25
+:issued-date: 2026-10-25
+:fullname: Open Geospatial Consortium
+:organization: Open Geospatial Consortium
+:mn-document-class: ogc
 
 include::clause_0_front_material.adoc[]
 
