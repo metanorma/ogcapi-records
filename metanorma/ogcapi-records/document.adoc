@@ -1,0 +1,24 @@
+= OGC API - Records - Part 1 (OpenAPI-driven sections)
+:doctype: standard
+:docsubtype: implementation
+:edition: 1.0
+:language: en
+:status: draft
+:committee: technical
+:docnumber: 21-045
+:received-date: 2026-10-25
+:issued-date: 2026-10-25
+:fullname: Open Geospatial Consortium
+:organization: Open Geospatial Consortium
+:mn-document-class: ogc
+
+== Scope
+
+This document demonstrates the model-based publication of OGC API - Records - Part 1:
+the normative sections below are generated directly from the official
+OpenAPI definition in this repository through metanorma-plugin-openapi
+and lutaml-openapi (metanorma-ogc#153).
+
+[openapi,path=../../core/openapi/ogcapi-records-1-building-blocks.yaml]
+--
+--
