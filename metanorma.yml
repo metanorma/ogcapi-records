@@ -2,6 +2,7 @@
 metanorma:
   source:
     files:
+      - core/standard/20-004r1.adoc
       - metanorma/ogcapi-records/document.adoc
 
   collection:
