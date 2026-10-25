@@ -1,0 +1,9 @@
+---
+metanorma:
+  source:
+    files:
+      - metanorma/ogcapi-records/document.adoc
+
+  collection:
+    organization: "OGC: The Open Geospatial Consortium"
+    name: "OGC API - Records - Part 1 (model-based publication)"
