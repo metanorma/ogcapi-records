@@ -530,7 +530,7 @@ Other encodings are allowed but are not described in this document.
 |<<req_record-collection_records,records>> |optional |An array of records encoded in-line in the catalog.
 |[[catalog-links-section]]_**links**_ |**required** |A list of links related to this catalog.
 |linkTemplates |optional |A list of link templates related to this catalog.
-|schemes |optional |A list of schemes related to this catalog. |`schemes`
+|schemes |optional |A list of schemes related to this catalog.
 |===
 
 NOTE: The properties _id_, _itemType_, _title_, _description_, _extent_, _crs_ and _links_ are inherited from http://docs.opengeospatial.org/is/17-069r3/17-069r3.html#\_collection\_[OGC API - Features - Part 1: Core].
